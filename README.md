@@ -26,4 +26,3 @@ This project contains automated UI tests for [saucedemo.com](https://www.saucede
 ```bash
 git clone https://github.com/PoCo-666/selenium-saucedemo-tests.git
 cd selenium-saucedemo-tests
-mvn clean test
